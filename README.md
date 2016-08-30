@@ -22,7 +22,6 @@
   * características do micro controlador utilizado.
 
 
-
 * Programação de micro controladores:
 
   * diferenças entre software e firmware;
