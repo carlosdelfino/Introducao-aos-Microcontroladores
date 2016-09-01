@@ -1,3 +1,107 @@
 {
-
+    "variables": {
+        "Version": "0.1"
+    },
+	    "links": {
+        "sidebar": {
+            "Site": "http://carlosdelfino.eti.br",
+		    "Facebook": "https://www.facebook.com/CursoArduinoMinas/",
+		    "Aulas Particulares": "mailto:consultoria@carlosdelfino.eti.br?subject='Gostaria de Informações sobre Aula Particular sobre MicroControladores'&body='Meu nome é<br/>Gostaria de obter informações sobre o Curso de Microcontroladores, gostaria de ter aulas em grupos ou individuais.'"
+        }
+    },
+    "plugins": [
+        "richquotes",
+        "anchors",
+        "disqus",
+        "extend-default-theme",
+        "search",
+        "exercises",
+        "image-captions",
+        "gist",
+        "katex",
+        "indexes",
+        "customtheme",
+        "theme-api",
+        "theme-default",
+        "highlight",
+        "bulk-redirect",
+        "exercises",
+        "zingchart",
+        "quiz",
+        "quizzes",
+        "codepen",
+        "jsfiddle",
+        "gist",
+        "ace",
+        "chart",
+        "codesnippet",
+        "include-codeblock",
+        "ga",
+        "wabtheme",
+        "page-toc",
+        "toc"
+    ],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "introduoalinguagemdeprogramaoparaarduino",
+            "useIdentifier": true
+        },
+        "autocover": {
+            "author": "Carlos Delfino - consultoria@carlosdelfino.eti.br",
+            "font": {
+                "size": null,
+                "family": "Impact",
+                "color": "#FFF"
+            },
+            "template": "layouts/cover/default.svg",
+            "size": {
+                "w": 1800,
+                "h": 2360
+            },
+            "background": {
+                "color": "#09F"
+            }
+        },
+        "page-toc": {
+            "selector": " .markdown-section h2, .markdown-section h3, .markdown-section h4",
+            "position": "before-first"
+        },
+        "layout": {
+            "headerPath": "layouts/header.html",
+            "footerPath": "layouts/footer.html"
+        },
+        "richquotes": {
+            "default": true
+        },
+        "bulk-redirect": {
+            "basepath": "/",
+            "redirectsFile": "redirects.json"
+        },
+        "ga": {
+            "token": "UA-21710445-1",
+            "configuration": "auto"
+        },
+        "sharing": {
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "weibo": false,
+            "instapaper": true,
+            "vk": false,
+            "all": [
+                "facebook",
+                "google",
+                "twitter",
+                "weibo",
+                "instapaper",
+                "vk"
+            ]
+        },
+        "image-captions": {
+            "caption": "Image _PAGE_LEVEL_._PAGE_IMAGE_NUMBER_ - _CAPTION_",
+            "list_caption": "List image _BOOK_IMAGE_NUMBER_: _CAPTION_",
+            "variable_name": "picturesList"
+        }
+    }, 
+    "language": "pt"
 }
