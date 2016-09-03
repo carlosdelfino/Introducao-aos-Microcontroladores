@@ -1,1 +1,2 @@
-/* CSS for website */
+/* CSS for website */ div { text-align: justify; text-justify: inter-word;}.book-body {}.body-inner {}.page-wrapper {}.page-toc { float: right; background: #f8f8f8; border: 1px solid rgba(0, 0, 0, 0.07); border-radius: 3px; padding: 10px !important; margin: 5px 5px 5px 5px; font-size: smaller;}
+.page-toc:before {   content: "Conteúdo";  font-weight: bold;}
