@@ -1,2 +1,0 @@
-# histórico dos micro controladores;
-
