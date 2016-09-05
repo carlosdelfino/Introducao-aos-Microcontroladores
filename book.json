@@ -42,7 +42,7 @@
     ],
     "pluginsConfig": {
         "disqus": {
-            "shortName": "introducaoaosmicrocontroladores",
+            "shortName": "intro-mcu",
             "useIdentifier": true
         },
         "page-toc": {
