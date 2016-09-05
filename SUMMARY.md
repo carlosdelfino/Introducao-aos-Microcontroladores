@@ -9,12 +9,11 @@
     * [Bits, Bytes, Word](revisao_linguagem_de_programacao/bits-bytes-word.md)
     * [Tipos de Dados](revisao_linguagem_de_programacao/tipos-de-dados.md)
 * [Introdução aos Microcontroladores](introducao_aos_microcontroladores/index.md)
-    * [Introdução aos micro controladores:](introdução_aos_microcontroladores/introdução-aos-micro-controladores.md)
     * [histórico dos micro controladores](introducao_aos_microcontroladores/historico.md)
     * [Arquitetura de micro controladores](introducao_aos_microcontroladores/arquitetura.md)
     * tipos de memórias semicondutoras;
     * características do micro controlador utilizado.
-* [Programação de micro controladores:](programacao_de_micro_controladores/index.md)
+* [Programação de microcontroladores:](programacao_de_microcontroladores/index.md)
     * diferenças entre software e firmware;
     * ambientes de programação,
     * compilação e gravação de micros controladores;
